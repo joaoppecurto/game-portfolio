@@ -1,72 +1,98 @@
 ---
-id: "3"
+id: "1"
 title: "Dino Vale"
-description: "Face ferocious foes! In Dino Vale your main goal is to destroy all enemy units. Manage your resources and hunt animals for a chance at survival, in classic RTS style!"
+description: "Take command in Dino Vale—a 2D retro-style RTS based on the underground game Primitive Wars. Manage resources, build your base, hunt animals for survival, and wipe out every enemy unit and structure standing in your way!"
 slug: "dino-vale"
 author: "2Dberries"
 video: "https://www.youtube.com/watch?v=2_D4d5zl0ng"
-coverImage: "https://thrangra.sirv.com/Game_Play_Poster.jpeg"
+coverImage: "https://joaoppecurto.sirv.com/DV_Cover.jpg"
+
 images: [
-  "https://thrangra.sirv.com/Wobble_Trouble_1.jpeg",
-  "https://thrangra.sirv.com/Wobble_Trouble_2.jpeg",
-  "https://thrangra.sirv.com/Wobble_Trouble_3.jpeg",
-  "https://thrangra.sirv.com/Wobble_Trouble_4.jpeg",
-  "https://thrangra.sirv.com/Wobble_Trouble_5.jpeg"
+  "https://joaoppecurto.sirv.com/DV_1.jpg",
+  "https://joaoppecurto.sirv.com/DV_2.jpg",
+  "https://joaoppecurto.sirv.com/DV_3.jpg",
+  "https://joaoppecurto.sirv.com/DV_4.jpg",
+  "https://joaoppecurto.sirv.com/DV_5.jpg"
 ]
 wsl: [
-  "Master your wobble skills by swiping, aiming, and releasing your character to deal damage.",
-  "Choose from three thrilling game modes: Destroy All Enemies, Survival, and Defeat the Boss.",
-  "Encounter a variety of enemies, each with unique abilities and attack patterns.",
-  "Face off against epic bosses like Golemik, a powerful golem, and Red, a monstrous spider.",
-  "Challenge yourself in 12 different rounds, each with new enemy combinations and game modes."
-]
-requirements: ["A good sense of timing and a love for wobbling (wobble experience optional!)"]
-targetGroup: [
-  "Players who enjoy fast-paced action games with unique control mechanics.",
-  "Casual gamers looking for a fun challenge.",
-  "Anyone seeking a thrilling arena combat game with multiple game modes."
-]
-date: "2024-10-06"
+  "Manage berry resources and construct houses, towers, and castle to expand your army",
+  "Attack and destroy all enemy structures and units to win each map",
+  "Hunt dangerous wild dinosaurs for survival and unit leveling experience — some creatures are deadly if you aren't prepared",
+  "Each enemy and animal species has unique stats, and AI",
+  "Gain XP through combat and hunting to upgrade your units’ strength",
+  "Face new strategies and challenges across four unique maps and multiple enemy AI setups"
+  ]
+requirements:
+  - Love for real-time strategy, resource management, and dinosaur battles.
+  - Strategic thinking, quick reflexes, and adaptation to dynamic battlefields.
+targetGroup:
+  - Fans of classic RTS games (Primitive Wars, Warcraft, Age of Empires).
+  - Players who want mobile RTS action.
+  - Anyone seeking creative resource and unit management in a pixel-art dino world.
+date: "2025-09-15"
 price: 0
 itchIoId: ""
-playStoreId: ""
+appStoreId: ""
+playStoreId: "" [//]: # com.berries2d.DinoVale
 ---
 
-**Dino Vale** is a fast-paced action game where you control a wobbly character in thrilling arena battles. Swipe, aim, and release to send your character flying through the arena, dealing damage to enemies and dodging powerful attacks. With its unique control mechanics and engaging gameplay, Dino Vale offers a fresh and exciting experience for players of all skill levels.
+**Dino Vale** is a retro-style real-time strategy (RTS) game where your main objective is to wipe out all enemies: manage berries, build castle, house and towers, and hunt wild animals for survival and experience points. Think fast, position your troops, and destroy enemy fortresses in classic RTS style.
 
-### **Game Controls**
+### Key Features
 
-The controls are easy to learn—simply swipe to aim and release to send your character in motion. Hold your swipe longer to charge up your power and deal more damage when you hit enemies.
+- **RTS Command & Resource Management:**  
+  Collect berries to construct new buildings and house a growing army of units.
+- **Animal and Enemy Variety:**  
+  Wild dinosaurs like Baryonyx and Carnotaurus roam the map. Enemies include Thieves (melee), Shamans (ranged), Lancers (extended reach), and the mighty Troll boss.
+- **Unit Progression:**  
+  Units and heroes gain experience from defeating enemies and hunting animals, allowing for improved stats.
+- **Dynamic AI and Map Events:**  
+  Enemy units and animals have unique AI behaviors, making every round different.
+- **Multiple Maps & Modes:**  
+  Play across four unique maps with different starting conditions and strategies.
+- **No Paywall:**  
+  100% free to play and accessible for all RTS fans.
 
-### **Gameplay Overview**
+### How to Play
 
-In Dino Vale, the arena is your battlefield! The goal is to master your wobble movements, timing your attacks perfectly to damage enemies while avoiding incoming threats. The more precise your strikes, the more effective your attacks will be. Collect power-ups to boost your abilities and stay one step ahead of your foes.
+- **Select and Command:**  
+  Tap to select your units. Assign them to move, gather resources, attack, or build.
+- **Build and Defend:**  
+  Use resources to house more units and improve your defense.
+- **Hunt and Survive:**  
+  Track and hunt wild animals for resources and experience, but beware—some prey become predators!
 
-### **Animal and Enemy Units**
+### Passive Animals
 
-Battle a variety of enemies, each with its own unique abilities and behavior:
+- **Sheep:** It gives almost no xp and food, only for a little starting boost.
+- **Sheep Grass:** Has double the xp of regular Sheep... Still it doesnt mean a lot!
+- **Oviraptor** Little dinossaur, regular XP, regular health
+- **Styracosaurus** Even though this dinossar doesnt attack, it has a lot higher health than Baryonyx. It may take some time killing it...
 
-- **Baryonyx**: A ferocious animal that charges aggressively. This green dinossaur can kill our most basic units if we're not ready.
+### Ferocious Animals
 
-- **Thief**: Basic melee enemy unit. It has a concealed weapon though! Same stats as our warrior.
-- **Shaman**: Basic ranged enemy unit. Beware of the dark spells this ranged enemy hurls your way. same stats as our archer.
-- **Lancer**: Having the same stats as our spearman, this enemy's weapon has double the reach of the thief.
+- **Baryonyx:** Fast, aggressive dino—very dangerous to unprotected units!
+- **Carnotaurus:** Powerful dino—needs a strong unit to hunt.
 
-Only Panda can do it:
+### Enemies
 
-- **Carnotaurus**: It just can't be hunted by anyone! This ferocious red dinossaur has too high stats... You may need leveling before trying to swing your weapon at it!
-- **Troll**:  Having the same stats of our chief Panda, it has the power to kill almost any unit in just a few swings.
+- **Enemy Worker:** Just like your worker, it doesnt attack, but by killing it you may decrease the enemy resource gathering capabilities!
+- **Thief:** Basic enemy; melee stats match your early warriors.
+- **Shaman:** Ranged nemesis, equivalent to your archers but with spell power.
+- **Lancer:** Extended weapon reach, matches your spearman in power.
+- **Troll:** Very dangerous enemy; has stats comparable to your Panda unit.
 
-### **Unit Progression**
 
-Get leveling experience while hunting or defeating enemies, and by so upgrade your stats!
-Are you stronger than the enemy?
+### **Progression**
+
+Gain experience by fighting and hunting, allowing your units to level up and overcome even the toughest battles.
 
 ### **Why Play Dino Vale?**
 
-- **Classic RTS**: Dino Vale is not another tower defense. Is an ode to the underground RTS Primitive Wars!
-- **Hunt and Destroy**: Battle against 4 different mobile enemy units, destroy their structures and hunt 6 different animals!
-- **Variety of maps**: Currently there are 4 different maps for you to explore and plan game mechanics.
-- **Different Game Modes**: Play against structure' generated enemies or against static ones, or even mixed.
-- **Challenging Rounds**: Tackle 12 distinct rounds, each more difficult than the last.
-- **Free to Play**: Enjoy Dino Vale without any cost!
+- For strategy and RTS enthusiasts seeking dinosaur-themed, retro-inspired gameplay.
+- For players wanting deep, tactical, unit, and resource management on mobile.
+- For anyone who wants classic RTS back.
+
+---
+
+Ready to prove your tactics in Dino Vale? Outsmart the AI, conquer every map, and become the true RTS dino warlord!

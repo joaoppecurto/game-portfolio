@@ -20,17 +20,21 @@ export default async function GameDetails({ params }) {
     <div className="container mx-auto px-12 py-10 max-w-7xl space-y-12 text-white">
       <h1 className="text-5xl font-extrabold text-center">{game.title}</h1>
 
+
       {/* Cover Image */}
-      <div className="relative w-full h-[30rem] shadow-lg rounded-xl overflow-hidden">
-        <Image
-          className="object-cover w-full h-full"
-          src={game.coverImage}
-          alt={game.title}
-          fill
-          sizes="(max-width: 768px) 100vw, 75vw"
-          priority
-        />
+      <div className="mx-auto rounded 2xl overflow-hidden" style={{ width: '67%' }}>
+        <div className="relative w-full" style={{ paddingTop: '56.25%' /* 16:9 aspect ratio */ }}>
+          <Image
+            className="object-cover"
+            src={game.coverImage}
+            alt={game.title}
+            fill
+            sizes="(max-width: 768px) 100vw, 75vw"
+            priority
+          />
+        </div>
       </div>
+
 
       {/* Description */}
       <p className="text-lg leading-relaxed max-w-6xl mx-auto text-center">{game.description}</p>
@@ -49,7 +53,7 @@ export default async function GameDetails({ params }) {
         )}
         {game.playStoreId && (
           <a
-            href={`https://apps.apple.com/app/${game.playStoreId}`}
+            href={`https://play.google.com/store/apps/details?id=${game.playStoreId}`}
             className="bg-blue-600 hover:bg-blue-800 text-white font-bold py-4 px-8 rounded-lg shadow-md transition-all"
             target="_blank"
             rel="noopener noreferrer"
@@ -59,7 +63,7 @@ export default async function GameDetails({ params }) {
         )}
         {game.itchIoId && (
           <a
-            href={`https://jerga99.itch.io/${game.itchIoId}`} // Replace with actual itch.io game link if available
+            href={`https://2dberries.itch.io/${game.itchIoId}`} // Replace with actual itch.io game link if available
             className="bg-pink-600 hover:bg-pink-800 text-white font-bold py-4 px-8 rounded-lg shadow-md transition-all"
             target="_blank"
             rel="noopener noreferrer"
@@ -128,7 +132,7 @@ export default async function GameDetails({ params }) {
       </section>
       <section className="space-y-4">
         <h2 className="text-3xl font-semibold">Support</h2>
-        <a href="mailto:jerga99@gmail.com"
+        <a href="mailto:2dberries@gmail.com"
           className="block text-blue-400 hover:text-blue-200 hover:underline"
           target="_blank"
           rel="noopener noreferrer"
@@ -148,9 +152,9 @@ export default async function GameDetails({ params }) {
       </section>
       {/* Gallery */}
       <section className="space-y-4">
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 max-w-7xl mx-auto">
+        <div className="grid grid-cols-5 gap-6 max-w-7xl mx-auto">
           {game.images.map((image, index) => (
-            <div key={index} className="relative w-full h-48 shadow-lg rounded-lg overflow-hidden">
+            <div key={index} className="relative w-full aspect-[9/20] shadow-lg rounded-lg overflow-hidden">
               <Image
                 className="object-cover"
                 src={image}
@@ -162,6 +166,7 @@ export default async function GameDetails({ params }) {
           ))}
         </div>
       </section>
+
     </div>
   );
 }

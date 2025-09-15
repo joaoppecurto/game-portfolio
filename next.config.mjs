@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     remotePatterns: [{
       protocol: 'https',
-      hostname: 'thrangra.sirv.com',
+      hostname: 'joaoppecurto.sirv.com',
     }]
   }
 };
