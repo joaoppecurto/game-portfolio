@@ -5,7 +5,7 @@ description: "Take command in Dino Vale—a 2D retro-style RTS based on the unde
 slug: "dino-vale"
 author: "2Dberries"
 video: "" # link to youtube
-coverImage: "https://joaoppecurto.sirv.com/DV_Cover.jpg"
+coverImage: "https://joaoppecurto.sirv.com/DV_Cover.jpg" #test
 
 images: [
   "https://joaoppecurto.sirv.com/DV_1.jpg",
