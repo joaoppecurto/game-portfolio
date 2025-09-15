@@ -8,11 +8,11 @@ video: "" # link to youtube
 coverImage: "https://joaoppecurto.sirv.com/DV_Cover.jpg" #test
 
 images: [
-  "https://joaoppecurto.sirv.com/DV_1.jpg",
-  "https://joaoppecurto.sirv.com/DV_2.jpg",
-  "https://joaoppecurto.sirv.com/DV_3.jpg",
-  "https://joaoppecurto.sirv.com/DV_4.jpg",
-  "https://joaoppecurto.sirv.com/DV_5.jpg"
+  "https://joaoppecurto.sirv.com/DV_1.png",
+  "https://joaoppecurto.sirv.com/DV_2.png",
+  "https://joaoppecurto.sirv.com/DV_3.png",
+  "https://joaoppecurto.sirv.com/DV_4.png",
+  "https://joaoppecurto.sirv.com/DV_5.png"
 ]
 wsl: [
   "Manage berry resources and construct houses, towers, and castle to expand your army",
