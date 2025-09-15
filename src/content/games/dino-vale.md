@@ -4,7 +4,7 @@ title: "Dino Vale"
 description: "Take command in Dino Vale—a 2D retro-style RTS based on the underground game Primitive Wars. Manage resources, build your base, hunt animals for survival, and wipe out every enemy unit and structure standing in your way!"
 slug: "dino-vale"
 author: "2Dberries"
-video: "" [//]: # link to youtube
+video: "" # link to youtube
 coverImage: "https://joaoppecurto.sirv.com/DV_Cover.jpg"
 
 images: [
@@ -33,7 +33,7 @@ date: "2025-09-15"
 price: 0
 itchIoId: ""
 appStoreId: ""
-playStoreId: "" [//]: # com.berries2d.DinoVale
+playStoreId: "" # com.berries2d.DinoVale
 ---
 
 **Dino Vale** is a retro-style real-time strategy (RTS) game where your main objective is to wipe out all enemies: manage berries, build castle, house and towers, and hunt wild animals for survival and experience points. Think fast, position your troops, and destroy enemy fortresses in classic RTS style.
