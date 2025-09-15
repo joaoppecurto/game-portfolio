@@ -4,7 +4,7 @@ title: "Dino Vale"
 description: "Take command in Dino Vale—a 2D retro-style RTS based on the underground game Primitive Wars. Manage resources, build your base, hunt animals for survival, and wipe out every enemy unit and structure standing in your way!"
 slug: "dino-vale"
 author: "2Dberries"
-video: "https://www.youtube.com/watch?v=2_D4d5zl0ng"
+video: "" [//]: # link to youtube
 coverImage: "https://joaoppecurto.sirv.com/DV_Cover.jpg"
 
 images: [
