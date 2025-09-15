@@ -7,23 +7,28 @@ date: "2025-09-15"
 
 ### **Information We Do Not Collect**
 
-Dino Vale does not collect, store, or process any personal or non-personal information. We do not collect data such as your name, email address, phone number, location, or any other personal identifiers. Additionally, no tracking or third-party services are used in this app.
+Dino Vale does not collect, store, or process any personal or non-personal information. The game operates fully offline and does not connect to the internet. We do not collect data such as your name, email, device identifiers, location, or any other personal information. No third-party tracking or analytics services are used.
+
+### **Local Data Storage**
+
+Dino Vale does not store any personal data locally on your device. The game does not keep any player information or settings beyond what is necessary for gameplay, and no data is transmitted outside the device.
 
 ### **Data Security**
 
-Since Dino Vale does not collect or store personal data, there are no security concerns regarding personal information.
+Since Dino Vale does not collect or store any personal data, there are no security concerns involving personal information. As the game is fully offline, your privacy is inherently protected.
 
 ### **User Rights**
 
-As Dino Vale does not collect any personal data, there are no data access, modification, or deletion rights applicable.
+As no personal information is collected, there are no applicable rights regarding data access, correction, or deletion. Any game progress or local data can be removed by uninstalling the game or clearing app data on your device.
 
-### **Compliance with Laws**
+### **Compliance with Privacy Laws**
 
-Dino Vale is designed to respect user privacy and comply with relevant privacy laws. Since no personal data is collected or processed, the app adheres to regulations such as GDPR and CCPA by default.
+Dino Vale is designed respecting user privacy and complies with relevant privacy laws including GDPR and CCPA by default since it does not collect or process any user personal data.
 
 ### **Contact Us**
-- **Email:**: [Contact Me](mailto:2dberries@gmail.com)
+
+- **Email:** [Contact Us](mailto:2dberries@gmail.com)
 
 ### **Changes to This Privacy Policy**
 
-We may update this privacy policy from time to time. Any changes will be posted on this page, and the "Last Updated" date at the top will reflect the most recent revision. We encourage you to review this policy periodically to stay informed about how we are protecting your privacy.
+We may update this privacy policy occasionally. Any changes will be posted on this page with an updated "Last Updated" date. We encourage reviewing this policy periodically to stay informed on how we maintain your privacy.
