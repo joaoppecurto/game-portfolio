@@ -111,7 +111,7 @@ For more information or to support the creator, visit Pixel Frog’s [Tiny Sword
 - Audio used in Dino Vale includes sound effects from the [Super Dialogue Audio Pack](https://bckr.itch.io/sdap) by [Dillon Becker](https://dillonbecker.com/). This audio pack is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 Proper attribution is given in accordance with the license terms, allowing free use including commercial purposes provided credit is given.
 - [Fantasy Ambience FREE SONG](https://assetstore.unity.com/packages/audio/music/fantasy-ambience-free-song-music-pack-258807) by [Owl Theory Music](https://assetstore.unity.com/publishers/43545) — Unity Asset Store
-- [Minimfantasy Dungeon SFX Pack](https://leohpaz.itch.io/minifantasy-dungeon-sfx-pack) by [leohpaz](https://leohpaz.itch.io/)
+- [Minifantasy Dungeon SFX Pack](https://leohpaz.itch.io/minifantasy-dungeon-sfx-pack) by [leohpaz](https://leohpaz.itch.io/)
 - [Essentials Series SFX](https://nox-sound-design.itch.io/essentials-series-sfx-nox-sound) by [Nox Sound Design](https://nox-sound-design.itch.io/) — Licensed under CC0, free for personal and commercial use
 - [Free Fantasy 200 SFX Pack](https://tommusic.itch.io/free-fantasy-200-sfx-pack) by [tommusic](https://tommusic.itch.io/)
 
