@@ -2,33 +2,43 @@
 slug: "dino-vale"
 title: "Dino Vale Privacy Policy"
 contact: "2dberries@gmail.com"
-date: "2025-09-15"
+date: "2025-09-16"
 ---
 
 ### **Information We Do Not Collect**
 
-Dino Vale does not collect, store, or process any personal or non-personal information. The game operates fully offline and does not connect to the internet. We do not collect data such as your name, email, device identifiers, location, or any other personal information. No third-party tracking or analytics services are used.
+Dino Vale does not collect, store, or process any personal or non-personal information directly. The game operates fully offline and does not connect to the internet, nor does it transmit any personal data from the user device.
+
+### **Use of Unity Ads**
+
+Dino Vale includes minimal advertisements served through the Unity Ads network. Unity Ads may collect device-related data such as advertising identifiers to provide personalized and relevant ads. This data collection is governed by Unity's Privacy Policy and applicable laws such as GDPR and CCPA.
+
+- Unity may collect certain information automatically to deliver ads, which is outside the control of Dino Vale.
+- Users can manage their ad preferences or opt-out options through Unity Ads interfaces available in the ads themselves or device settings.
+- For details on Unity's data collection and privacy practices, please review Unity's Privacy Policy at [https://unity.com/legal/privacy-policy](https://unity.com/legal/privacy-policy).
 
 ### **Local Data Storage**
 
-Dino Vale does not store any personal data locally on your device. The game does not keep any player information or settings beyond what is necessary for gameplay, and no data is transmitted outside the device.
+Dino Vale does not store any personal data locally beyond basic game progress or settings necessary for gameplay. No data is shared externally.
 
 ### **Data Security**
 
-Since Dino Vale does not collect or store any personal data, there are no security concerns involving personal information. As the game is fully offline, your privacy is inherently protected.
+Because Dino Vale does not directly collect or store personal data, there are no specific security concerns within the game app. Privacy related to ad serving is managed by Unity.
 
 ### **User Rights**
 
-As no personal information is collected, there are no applicable rights regarding data access, correction, or deletion. Any game progress or local data can be removed by uninstalling the game or clearing app data on your device.
+As Dino Vale does not collect personal information directly, no data access, correction, or deletion requests apply to the game itself. For ad-related data, please refer to Unity Ads user controls.
 
 ### **Compliance with Privacy Laws**
 
-Dino Vale is designed respecting user privacy and complies with relevant privacy laws including GDPR and CCPA by default since it does not collect or process any user personal data.
+Dino Vale is designed to respect user privacy and complies with relevant laws such as GDPR and CCPA by not collecting personal data directly. Use of Unity Ads complies with their policies and applicable legal requirements.
 
 ### **Contact Us**
 
-- **Email:** [Contact Us](mailto:2dberries@gmail.com)
+If you have any questions or concerns about this privacy policy or how your data is handled, please contact us:
+- **Email:** [2dberries@gmail.com](mailto:2dberries@gmail.com)
 
 ### **Changes to This Privacy Policy**
 
-We may update this privacy policy occasionally. Any changes will be posted on this page with an updated "Last Updated" date. We encourage reviewing this policy periodically to stay informed on how we maintain your privacy.
+We may update this privacy policy occasionally. Changes will be posted on this page with an updated "Last Updated" date. Please review periodically.
+
