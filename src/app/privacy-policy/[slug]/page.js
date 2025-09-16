@@ -15,7 +15,7 @@ export default async function PrivacyPolicyDetails({ params }) {
   const policy = await getPolicy(slug);
 
   return (
-    <div className="container mx-auto px-12 py-10 max-w-7xl space-y-12 text-white">
+    <div className="container mx-auto px-12 py-10 max-w-7xl space-y-12 text-green">
       <p>Last Updated: {policy.date}</p>
       <h1 className="text-5xl font-extrabold text-center">{policy.title}</h1>
 
