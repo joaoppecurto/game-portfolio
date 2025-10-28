@@ -33,7 +33,7 @@ date: "2025-09-15"
 price: 0
 itchIoId: ""
 appStoreId: ""
-playStoreId: "com.berries2d.DinoVale"
+playStoreId: "com.berries2D.DinoVale"
 ---
 
 **Dino Vale** is a classic real-time strategy (RTS) game where your main objective is to wipe out all enemies: manage berries, build castle, house and towers, and hunt wild animals for survival and experience points. Think fast, position your troops, and destroy enemy fortresses in classic RTS style.
